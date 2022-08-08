@@ -1,0 +1,15 @@
+
+#snakeboard {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: black 20px 10px 50px;
+  }
+
+  #score {
+    text-align: center;
+    font-size: 140px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(255, 47, 64)
+  }
